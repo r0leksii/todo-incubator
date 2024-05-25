@@ -1,4 +1,5 @@
 {
+  "homepage": "https://r0leksii.github.io/todo-incubator/",
   "name": "it-incubator-todolist-ts",
   "jest": {
     "moduleNameMapper": {
